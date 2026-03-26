@@ -1,0 +1,25 @@
+Description.txt
+
+Project Name: Hope Harvest Foundation Donation App
+
+Purpose:
+This Windows Forms application was developed to help the Hope Harvest Foundation manage donor and organization information efficiently. The system allows users to register donors, track donations (both funds and food), and manage partner organizations. It ensures that all donor and organization data is properly validated and displayed in an organized format.
+
+Technologies and Concepts Used:
+
+Programming Language: VB.NET
+Development Environment: Visual Studio
+Concepts Applied: Object-Oriented Programming (OOP), including Encapsulation and Classes
+Data Structures: Lists for storing donor and organization objects
+User Interface: Windows Forms with text boxes, radio buttons, and list display
+
+Features Implemented:
+
+Donor Registration: Users can input donor details, which are validated before generating a unique Donor ID.
+Donation Management: The app supports both monetary and food donations, validating the inputs and displaying them in a clear list format.
+Organization Management: Users can add organizations with details such as contact person and location, which are displayed and tracked in the system.
+Input Validation and Error Handling: Ensures that names contain letters only, contacts are numeric, and required fields are filled.
+Clean User Interface: The app provides an easy-to-use interface with message boxes confirming successful actions.
+
+Outcome:
+This project demonstrates the ability to design a functional, real-world software solution using VB.NET. It highlights skills in software development, OOP, and user interface design, and can be used as a practical example of managing data in a structured and efficient way.
